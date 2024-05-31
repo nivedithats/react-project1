@@ -10,7 +10,7 @@ function AllProducts() {
       <div className="row">
         {
             productsData.map((item,index)=>(
-                <div className="col-md-4 p-2 d-flex g-3">
+                <div className="col-md-4 col-sm-2  p-2  d-flex g-3">
                     <div className="card ">
                   
                       
