@@ -1,0 +1,13 @@
+.profile{
+    width: 200px;
+    border-radius: 100px;
+    height: 200px;
+}
+table th{
+    padding: 10px;
+}
+table{
+    overflow: auto;
+    width: 100%;
+    table-layout: fixed;
+}
